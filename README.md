@@ -49,6 +49,10 @@ The project involves:
 - The dataset is also included in this repository.
 
 ---
+## 📓 Notebook
+
+- The full Jupyter notebook for this project is available on [Kaggle](https://www.kaggle.com/code/basmammdouh/student-score-prediction)  
+- You can also find the notebook file (`student-score-prediction.ipynb`) in this repository.
 
 ## 🏃 How to Run
 
