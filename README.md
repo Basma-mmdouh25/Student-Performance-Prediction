@@ -58,3 +58,12 @@ The project involves:
 
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+
+---
+
+## 🙋 About Me
+
+**Basma Mamdouh Tawfik**  
+📧 Email: basmammdouh120@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/basma-mamdouh-33710424b/](https://www.linkedin.com/in/basma-mamdouh-33710424b/)
+
